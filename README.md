@@ -1,19 +1,19 @@
 # Bitcoin-Proof-of-Stake
-BitcoinPoS integration
+LiteBitcoin integration
 
-https://www.bitcoinpos.info
+https://LiteBitcoin.org
 
-What is Bitcoin PoS?
-BitcoinPoS - Real Bitcoin transitioned to Proof of Stake. All BTCS have been mined using real BTC keys.
+What is LiteBitcoin?
+LiteBitcoin - new network to Bitcoin transitioned to Proof of Stake. All BTC have been mined using real BTC keys.
 
-BitcoinPoS (BTCS) Bitcoin with Proof of Stake (PoS)
+LiteBitcoin (LBTC) Bitcoin migrated with Proof of Stake (PoS)
 
-The only way to mine BTCS is to use real BTC keys. Use the 'importprivkey' command to import your BTC key and start mining on the BTCS network. Please move your funds to a safe address before importing your key.
+The only way to mine BTCS is to use real BTC keys. Use the 'importprivkey' command to import your BTC key and start mining on the LBTC network. Please move your funds to a safe address before importing your key.
 
-For more information see https://www.bitcoinpos.ino
+For more information see https://www.litebitcoin.org
 
 License
-Bitcoin PoS Core is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
+LiteBitcoin Core is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
 
 Development Process
 The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of Bitcoin PoS Core.
@@ -34,12 +34,11 @@ Manual Quality Assurance (QA) Testing
 Changes should be tested by somebody other than the developer who wrote the code. This is especially important for large or high-risk changes. It is useful to add a test plan to the pull request description if testing the changes is not straightforward.
 
 About
-BitcoinPoS Core integration
+LiteBitcoin Core integration
 
-www.bitcoinpos.info
+Litebitcoin.org
 Resources
  Readme
 License
  MIT license
 Security policy
- Security policy
